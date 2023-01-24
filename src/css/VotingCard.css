@@ -1,0 +1,21 @@
+.votingCard-body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.cardContainer{
+    display: flex;
+     justify-content: center; 
+    align-items: center;
+    height: 100vh;
+}
+
+.card-content{
+    background-color: coral;
+}
+
+.formInput{
+    background-color: coral;
+}
+
